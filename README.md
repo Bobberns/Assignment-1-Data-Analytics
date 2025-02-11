@@ -4,6 +4,7 @@
 
 Due: **Tue, Jan 28, 2025 (latest is pre-mid week)**
 
+Instructions:
 This assignment is a test of your algorithmic thinking. You can use any A.I. tools ot assist you in this coding assignment. 
 Instructions: 
 - This is done by pair, preferably your thesis partner 
