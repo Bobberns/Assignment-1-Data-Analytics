@@ -1,0 +1,301 @@
+ID,Treated,Pain_Score,Urgency_Score,Frequency_Score,Treatment_Time
+Patient_1,Yes,3,4,2,2025-02-10 20:26:56
+Patient_2,No,2,6,5,
+Patient_3,No,6,5,0,
+Patient_4,No,7,0,6,
+Patient_5,Yes,3,4,0,2025-02-10 05:26:39
+Patient_6,Yes,1,4,8,2025-02-10 01:11:44
+Patient_7,Yes,9,5,0,2025-02-10 20:06:09
+Patient_8,No,2,2,0,
+Patient_9,No,0,4,6,
+Patient_10,No,7,6,1,
+Patient_11,Yes,2,4,4,2025-02-10 12:16:25
+Patient_12,No,9,4,7,
+Patient_13,No,6,4,7,
+Patient_14,Yes,9,9,2,2025-02-10 20:27:57
+Patient_15,Yes,4,9,6,2025-02-10 13:01:59
+Patient_16,Yes,9,2,2,2025-02-10 21:42:00
+Patient_17,Yes,4,0,5,2025-02-10 18:52:35
+Patient_18,No,6,4,5,
+Patient_19,Yes,8,8,2,2025-02-10 18:25:28
+Patient_20,Yes,4,0,6,2025-02-10 20:10:39
+Patient_21,No,0,2,2,
+Patient_22,Yes,9,3,7,2025-02-10 10:35:48
+Patient_23,Yes,9,0,9,2025-02-10 06:39:34
+Patient_24,Yes,0,0,3,2025-02-10 21:33:54
+Patient_25,Yes,1,7,0,2025-02-10 14:23:53
+Patient_26,No,5,1,3,
+Patient_27,Yes,8,7,6,2025-02-10 21:04:55
+Patient_28,No,7,6,10,
+Patient_29,No,4,9,3,
+Patient_30,Yes,0,9,5,2025-02-10 00:57:35
+Patient_31,No,6,1,8,
+Patient_32,Yes,4,5,0,2025-02-10 14:19:18
+Patient_33,Yes,5,5,4,2025-02-10 02:51:42
+Patient_34,No,6,2,10,
+Patient_35,No,2,10,6,
+Patient_36,No,9,1,0,
+Patient_37,Yes,2,0,3,2025-02-10 16:58:44
+Patient_38,Yes,4,5,5,2025-02-10 10:33:08
+Patient_39,No,5,4,1,
+Patient_40,Yes,8,10,9,2025-02-10 01:52:08
+Patient_41,Yes,4,8,4,2025-02-10 08:39:16
+Patient_42,Yes,0,0,10,2025-02-10 00:24:42
+Patient_43,Yes,3,6,9,2025-02-10 07:41:24
+Patient_44,No,4,4,0,
+Patient_45,Yes,9,4,5,2025-02-10 06:34:02
+Patient_46,No,9,1,5,
+Patient_47,Yes,4,10,3,2025-02-10 17:36:43
+Patient_48,No,6,2,7,
+Patient_49,No,3,6,3,
+Patient_50,Yes,0,5,7,2025-02-10 11:50:29
+Patient_51,No,4,1,7,
+Patient_52,No,6,5,4,
+Patient_53,No,9,1,3,
+Patient_54,No,9,1,1,
+Patient_55,No,5,1,10,
+Patient_56,No,4,10,2,
+Patient_57,Yes,3,2,2,2025-02-10 05:33:11
+Patient_58,Yes,1,1,3,2025-02-10 18:36:43
+Patient_59,Yes,3,3,3,2025-02-10 16:16:09
+Patient_60,Yes,9,8,9,2025-02-10 22:48:46
+Patient_61,Yes,9,5,10,2025-02-10 11:15:23
+Patient_62,Yes,2,0,10,2025-02-10 18:07:30
+Patient_63,No,9,7,4,
+Patient_64,Yes,0,6,3,2025-02-10 20:16:22
+Patient_65,Yes,7,9,10,2025-02-10 04:53:15
+Patient_66,No,4,2,9,
+Patient_67,Yes,3,0,7,2025-02-10 05:07:24
+Patient_68,No,7,4,5,
+Patient_69,Yes,6,3,5,2025-02-10 17:24:11
+Patient_70,No,1,9,7,
+Patient_71,No,0,7,6,
+Patient_72,Yes,10,0,9,2025-02-10 14:58:25
+Patient_73,Yes,3,9,10,2025-02-10 08:44:25
+Patient_74,No,7,0,9,
+Patient_75,No,1,3,7,
+Patient_76,No,2,7,1,
+Patient_77,No,0,4,8,
+Patient_78,Yes,0,1,0,2025-02-10 14:31:09
+Patient_79,Yes,2,5,7,2025-02-10 15:06:16
+Patient_80,Yes,10,4,10,2025-02-10 22:25:20
+Patient_81,No,4,1,3,
+Patient_82,No,2,10,3,
+Patient_83,Yes,0,10,4,2025-02-10 21:57:06
+Patient_84,Yes,0,10,7,2025-02-10 13:14:52
+Patient_85,Yes,7,2,4,2025-02-10 06:08:50
+Patient_86,Yes,9,8,7,2025-02-10 15:07:49
+Patient_87,No,10,6,9,
+Patient_88,No,1,6,0,
+Patient_89,No,2,10,9,
+Patient_90,Yes,1,5,8,2025-02-10 22:28:17
+Patient_91,Yes,2,7,5,2025-02-10 19:38:34
+Patient_92,No,6,3,2,
+Patient_93,No,0,7,7,
+Patient_94,No,9,3,8,
+Patient_95,No,7,7,5,
+Patient_96,Yes,9,8,10,2025-02-10 17:58:41
+Patient_97,No,9,2,6,
+Patient_98,Yes,9,2,0,2025-02-10 06:16:13
+Patient_99,Yes,1,10,4,2025-02-10 23:34:43
+Patient_100,Yes,2,1,4,2025-02-10 12:33:02
+Patient_101,Yes,8,9,9,2025-02-10 04:42:39
+Patient_102,No,6,2,3,
+Patient_103,Yes,3,2,5,2025-02-10 22:22:43
+Patient_104,No,9,4,6,
+Patient_105,No,4,4,8,
+Patient_106,Yes,1,1,0,2025-02-10 06:14:55
+Patient_107,Yes,10,9,5,2025-02-10 16:03:28
+Patient_108,No,7,5,6,
+Patient_109,Yes,3,4,2,2025-02-10 21:24:12
+Patient_110,Yes,8,5,7,2025-02-10 17:32:15
+Patient_111,Yes,4,0,4,2025-02-10 12:41:43
+Patient_112,Yes,8,4,8,2025-02-10 01:54:34
+Patient_113,No,3,8,4,
+Patient_114,No,9,9,8,
+Patient_115,No,4,1,9,
+Patient_116,No,8,0,3,
+Patient_117,No,7,9,8,
+Patient_118,Yes,2,10,4,2025-02-10 09:33:29
+Patient_119,No,0,8,9,
+Patient_120,No,2,9,8,
+Patient_121,No,3,8,2,
+Patient_122,No,1,8,3,
+Patient_123,Yes,0,5,8,2025-02-10 22:12:12
+Patient_124,Yes,6,7,9,2025-02-10 17:31:31
+Patient_125,Yes,7,10,10,2025-02-10 02:58:38
+Patient_126,Yes,6,0,5,2025-02-10 13:51:28
+Patient_127,No,4,9,1,
+Patient_128,No,0,3,6,
+Patient_129,Yes,6,0,1,2025-02-10 16:28:52
+Patient_130,No,6,7,10,
+Patient_131,Yes,8,0,1,2025-02-10 11:56:15
+Patient_132,Yes,2,2,10,2025-02-10 23:43:46
+Patient_133,Yes,8,3,0,2025-02-10 09:29:24
+Patient_134,Yes,0,7,10,2025-02-10 06:19:04
+Patient_135,No,0,5,10,
+Patient_136,Yes,3,9,10,2025-02-10 00:29:48
+Patient_137,No,8,6,2,
+Patient_138,No,5,7,5,
+Patient_139,Yes,10,1,7,2025-02-10 02:44:13
+Patient_140,No,2,9,8,
+Patient_141,No,0,10,6,
+Patient_142,Yes,3,7,3,2025-02-10 23:29:49
+Patient_143,Yes,8,2,5,2025-02-10 03:17:36
+Patient_144,Yes,2,6,4,2025-02-10 15:00:52
+Patient_145,Yes,8,2,7,2025-02-10 13:14:08
+Patient_146,Yes,6,6,0,2025-02-10 14:48:56
+Patient_147,No,3,10,0,
+Patient_148,No,2,1,10,
+Patient_149,Yes,9,9,5,2025-02-10 23:03:11
+Patient_150,Yes,4,5,9,2025-02-10 04:36:42
+Patient_151,No,4,2,1,
+Patient_152,Yes,2,2,4,2025-02-10 05:38:55
+Patient_153,Yes,8,8,0,2025-02-10 13:23:10
+Patient_154,Yes,3,6,6,2025-02-10 12:33:24
+Patient_155,No,10,4,0,
+Patient_156,Yes,4,9,3,2025-02-10 06:51:03
+Patient_157,No,3,6,8,
+Patient_158,No,4,8,0,
+Patient_159,Yes,6,0,3,2025-02-10 07:19:28
+Patient_160,No,8,6,5,
+Patient_161,Yes,6,5,5,2025-02-10 21:52:50
+Patient_162,No,4,9,7,
+Patient_163,No,9,8,0,
+Patient_164,No,9,0,6,
+Patient_165,Yes,6,3,0,2025-02-10 12:45:09
+Patient_166,No,9,8,6,
+Patient_167,Yes,4,3,2,2025-02-10 10:33:56
+Patient_168,Yes,2,9,10,2025-02-10 08:48:57
+Patient_169,Yes,6,2,7,2025-02-10 02:55:05
+Patient_170,No,10,8,2,
+Patient_171,No,10,1,0,
+Patient_172,Yes,1,3,7,2025-02-10 04:04:53
+Patient_173,No,8,5,2,
+Patient_174,Yes,9,1,1,2025-02-10 14:22:48
+Patient_175,No,9,7,0,
+Patient_176,Yes,0,7,2,2025-02-10 08:34:19
+Patient_177,No,5,0,1,
+Patient_178,Yes,6,2,1,2025-02-10 16:58:41
+Patient_179,No,7,9,5,
+Patient_180,Yes,9,8,0,2025-02-10 02:49:17
+Patient_181,Yes,8,4,1,2025-02-10 16:23:02
+Patient_182,Yes,1,5,5,2025-02-10 02:37:12
+Patient_183,No,10,3,2,
+Patient_184,No,9,9,3,
+Patient_185,Yes,1,1,0,2025-02-10 23:46:24
+Patient_186,No,4,10,7,
+Patient_187,No,4,7,6,
+Patient_188,No,5,10,6,
+Patient_189,No,2,5,2,
+Patient_190,Yes,7,4,9,2025-02-10 08:03:13
+Patient_191,Yes,0,8,9,2025-02-10 04:33:10
+Patient_192,No,5,0,2,
+Patient_193,No,3,4,1,
+Patient_194,No,0,5,0,
+Patient_195,Yes,6,4,6,2025-02-10 08:55:02
+Patient_196,Yes,8,5,6,2025-02-10 08:02:24
+Patient_197,No,3,5,1,
+Patient_198,No,3,6,6,
+Patient_199,No,5,3,7,
+Patient_200,No,2,10,0,
+Patient_201,No,5,7,8,
+Patient_202,Yes,6,6,6,2025-02-10 01:11:41
+Patient_203,Yes,10,8,2,2025-02-10 08:14:39
+Patient_204,No,9,6,7,
+Patient_205,No,9,2,6,
+Patient_206,Yes,2,2,10,2025-02-10 04:10:58
+Patient_207,Yes,6,7,7,2025-02-10 01:23:59
+Patient_208,No,2,4,5,
+Patient_209,Yes,1,3,8,2025-02-10 14:37:07
+Patient_210,Yes,9,7,4,2025-02-10 04:47:25
+Patient_211,No,3,5,2,
+Patient_212,No,7,1,2,
+Patient_213,No,8,3,0,
+Patient_214,Yes,6,10,7,2025-02-10 17:05:36
+Patient_215,No,0,3,1,
+Patient_216,Yes,2,5,2,2025-02-10 15:12:27
+Patient_217,Yes,8,5,7,2025-02-10 04:12:16
+Patient_218,No,0,0,7,
+Patient_219,No,8,7,10,
+Patient_220,No,7,5,3,
+Patient_221,No,0,2,3,
+Patient_222,No,5,8,4,
+Patient_223,Yes,4,1,5,2025-02-10 17:39:44
+Patient_224,Yes,5,10,4,2025-02-10 18:57:02
+Patient_225,Yes,9,7,6,2025-02-10 23:39:33
+Patient_226,Yes,4,9,1,2025-02-10 07:26:12
+Patient_227,No,5,2,6,
+Patient_228,Yes,4,4,9,2025-02-10 12:32:05
+Patient_229,No,10,5,6,
+Patient_230,No,4,9,0,
+Patient_231,No,3,5,6,
+Patient_232,No,2,3,4,
+Patient_233,No,2,2,2,
+Patient_234,Yes,3,3,2,2025-02-10 23:18:15
+Patient_235,Yes,8,0,3,2025-02-10 07:27:32
+Patient_236,No,1,3,1,
+Patient_237,Yes,8,0,1,2025-02-10 15:40:12
+Patient_238,Yes,0,0,0,2025-02-10 10:44:24
+Patient_239,No,0,9,4,
+Patient_240,Yes,4,5,3,2025-02-10 20:41:35
+Patient_241,No,5,4,10,
+Patient_242,No,5,10,9,
+Patient_243,No,2,3,1,
+Patient_244,Yes,6,10,2,2025-02-10 05:59:06
+Patient_245,Yes,8,2,6,2025-02-10 04:42:44
+Patient_246,No,10,0,6,
+Patient_247,Yes,9,5,3,2025-02-10 18:30:22
+Patient_248,No,7,1,4,
+Patient_249,No,5,7,4,
+Patient_250,No,7,9,5,
+Patient_251,Yes,4,4,8,2025-02-10 09:09:31
+Patient_252,Yes,7,6,1,2025-02-10 10:52:29
+Patient_253,No,9,9,4,
+Patient_254,Yes,3,1,2,2025-02-10 06:30:17
+Patient_255,Yes,9,7,3,2025-02-10 03:01:13
+Patient_256,No,7,1,9,
+Patient_257,No,9,3,5,
+Patient_258,No,1,0,7,
+Patient_259,No,4,4,0,
+Patient_260,Yes,8,8,9,2025-02-10 12:28:11
+Patient_261,No,3,0,7,
+Patient_262,No,10,8,10,
+Patient_263,Yes,5,10,6,2025-02-10 06:01:31
+Patient_264,No,0,7,0,
+Patient_265,No,8,5,1,
+Patient_266,No,0,6,2,
+Patient_267,No,4,2,0,
+Patient_268,No,3,0,8,
+Patient_269,Yes,2,4,7,2025-02-10 12:45:26
+Patient_270,Yes,5,1,1,2025-02-10 16:40:16
+Patient_271,No,1,4,8,
+Patient_272,No,2,7,6,
+Patient_273,No,4,10,8,
+Patient_274,No,8,8,5,
+Patient_275,No,1,1,5,
+Patient_276,No,9,2,10,
+Patient_277,No,7,2,3,
+Patient_278,No,1,0,9,
+Patient_279,No,10,7,9,
+Patient_280,No,4,5,1,
+Patient_281,No,6,7,6,
+Patient_282,Yes,7,10,4,2025-02-10 07:30:33
+Patient_283,Yes,0,8,10,2025-02-10 23:44:34
+Patient_284,Yes,5,4,5,2025-02-10 15:05:18
+Patient_285,No,0,2,1,
+Patient_286,Yes,1,4,4,2025-02-10 06:09:40
+Patient_287,Yes,0,4,9,2025-02-10 01:27:59
+Patient_288,No,10,4,3,
+Patient_289,Yes,4,2,8,2025-02-10 14:29:36
+Patient_290,No,9,10,5,
+Patient_291,Yes,8,9,1,2025-02-10 21:03:19
+Patient_292,Yes,5,3,0,2025-02-10 03:49:03
+Patient_293,No,10,8,4,
+Patient_294,Yes,10,9,8,2025-02-10 16:11:21
+Patient_295,Yes,0,8,5,2025-02-10 16:09:53
+Patient_296,No,0,1,9,
+Patient_297,No,1,7,6,
+Patient_298,Yes,8,7,4,2025-02-10 00:21:25
+Patient_299,No,2,6,9,
+Patient_300,Yes,0,7,5,2025-02-10 23:58:17
